@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 398" width="410" height="398" role="img" aria-labelledby="t d">
+<title id="t">Education</title>
+<desc id="d">2023 to 2026, EPF Paris: engineering degree, MSc level, Data Science major; thesis on steering a product with AI agents. 2024 to 2025, UC Santa Barbara, UIP program: business strategy, marketing and data analytics. 2020 to 2023, Centre International de Valbonne: PSI* preparatory classes in maths, physics and engineering. Languages: French (native), English (fluent).</desc>
+<style>
+.ink{fill:#F0F3F6}.ink2{fill:#D1D7E0}.mut{fill:#9198A1}.acc{fill:#3FD5A3}
+.rule{stroke:#30363D}.rail{stroke:#3D444D}.dot{stroke:#768390}.sacc{stroke:#3FD5A3}.sink{stroke:#D1D7E0}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.serif{font-family:Georgia,'Iowan Old Style','Palatino Linotype','Noto Serif','Times New Roman',serif}
+.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,'Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace}
+@media (max-width:380px){.k{font-size:14px;letter-spacing:.8px}.s{font-size:17px}.n{font-size:15px}.l{font-size:14px;letter-spacing:1.8px}}
+</style>
+<line x1="14" y1="50" x2="14" y2="246.5" class="rail" stroke-width="1.5"/>
+<line x1="14" y1="50" x2="14" y2="86" class="sacc" stroke-width="1.5"/>
+<text x="36" y="17" class="mono mut l" font-size="12.5" letter-spacing="2.4">EDUCATION</text>
+<text x="36" y="340.0" class="mono mut k" font-size="12.5" letter-spacing="1.2">LANGUAGES</text>
+<text x="36" y="366.0" class="sans ink s" font-size="16">French (native) · English (fluent)</text>
+<circle cx="14" cy="50" r="4.5" class="ink2"/>
+<text x="36" y="54.5" class="mono mut k" font-size="12.5" letter-spacing="1.2">2023 – 2026 · DATA SCIENCE MAJOR</text>
+<text x="36" y="80.5" class="sans ink" font-size="19" font-weight="600">EPF Paris</text>
+<text x="36" y="103.5" class="sans mut s" font-size="16">Engineering degree, MSc level</text>
+<text x="36" y="125" class="sans mut n" font-size="14.5" font-style="italic">Thesis: steering a product with AI agents</text>
+<circle cx="14" cy="159" r="4" fill="none" class="dot" stroke-width="1.5"/>
+<text x="36" y="163.5" class="mono mut k" font-size="12.5" letter-spacing="1.2">2024 – 2025 · UIP PROGRAM</text>
+<text x="36" y="189.5" class="sans ink" font-size="19" font-weight="600">UC Santa Barbara</text>
+<text x="36" y="212.5" class="sans mut s" font-size="16">Strategy, marketing &amp; data analytics</text>
+<circle cx="14" cy="246.5" r="4" fill="none" class="dot" stroke-width="1.5"/>
+<text x="36" y="251.0" class="mono mut k" font-size="12.5" letter-spacing="1.2">2020 – 2023 · PREPARATORY CLASSES</text>
+<text x="36" y="277.0" class="sans ink" font-size="19" font-weight="600">Centre International de Valbonne</text>
+<text x="36" y="300.0" class="sans mut s" font-size="16">PSI* track: maths, physics, engineering</text>
+</svg>
