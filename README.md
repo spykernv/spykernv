@@ -18,7 +18,8 @@ Let's keep it simple: I love building with AI, deep thinking and understanding h
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Core expertise:** Agent orchestration • MCP servers • Claude Skills • Demos &amp; POCs • Technical discovery
+**Core expertise:** Agent orchestration • MCP servers • Claude Skills • Demos &amp; POCs • Technical discovery • Bias for action • Explaining AI to any audience • Team enablement • French &amp; English<br>
+**Business:** AI go-to-market • Business management • Product strategy &amp; pricing • B2B presales • AI transformation consulting
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img src="assets/divider-light.svg" width="860" alt=""></picture>
 
