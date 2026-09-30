@@ -2,7 +2,7 @@
 
 Product Manager & Applied AI · Paris, France
 
-Let's keep it simple: I love building with AI, business, deep thinking, understanding how things work, focus on business outcome, fast prototyping and owning products people actually use.
+Let's keep it simple: I love building with AI, deep thinking and understanding how things work. On the business side: venture building, B2B go-to-market, and turning an edge into revenue. Focus on outcomes, fast prototyping, and owning products people actually&nbsp;use.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img src="assets/divider-light.svg" width="860" alt=""></picture>
 
