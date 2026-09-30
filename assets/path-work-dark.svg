@@ -1,35 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 398" width="410" height="398" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 396" width="410" height="396" role="img" aria-labelledby="t d">
 <title id="t">Experience</title>
-<desc id="d">Now: open to roles. Feb to Sep 2026, TechGuys Consulting, Canada: Product Manager and Venture Lead; led Plania, an AI SaaS for business plans. Sep to Dec 2025, LGM Industrial Engineering Group, France: Digital Transformation and AI Consultant. Jun to Aug 2025, CNMSS, French military health insurance: AI Strategy and Transformation Consultant.</desc>
+<desc id="d">Feb to Sep 2026, TechGuys Consulting, Canada: Product Manager and Venture Lead; led Plania, an AI SaaS for business plans. Sep to Dec 2025, LGM Industrial Engineering Group, France: Digital Transformation and AI Consultant. Jun to Aug 2025, CNMSS, French military health insurance: AI Strategy and Transformation Consultant.</desc>
 <style>
 .ink{fill:#F0F3F6}.ink2{fill:#D1D7E0}.mut{fill:#9198A1}.acc{fill:#3FD5A3}
 .rule{stroke:#30363D}.rail{stroke:#3D444D}.dot{stroke:#768390}.sacc{stroke:#3FD5A3}.sink{stroke:#D1D7E0}
 .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
 .serif{font-family:Georgia,'Iowan Old Style','Palatino Linotype','Noto Serif','Times New Roman',serif}
 .mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,'Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace}
-.halo{animation:breathe 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-@keyframes breathe{0%,100%{opacity:.12;transform:scale(.55)}50%{opacity:.42;transform:scale(1)}}
-@media (prefers-reduced-motion:reduce){.halo{animation:none;opacity:.25}}
 @media (max-width:380px){.k{font-size:14px;letter-spacing:.8px}.s{font-size:17px}.n{font-size:15px}.l{font-size:14px;letter-spacing:1.8px}}
 </style>
-<line x1="14" y1="50" x2="14" y2="292.5" class="rail" stroke-width="1.5"/>
-<line x1="14" y1="50" x2="14" y2="96" class="sacc" stroke-width="1.5"/>
+<line x1="14" y1="50" x2="14" y2="246.5" class="rail" stroke-width="1.5"/>
+<line x1="14" y1="50" x2="14" y2="86" class="sacc" stroke-width="1.5"/>
 <text x="36" y="17" class="mono mut l" font-size="12.5" letter-spacing="2.4">EXPERIENCE</text>
-<circle cx="14" cy="50" r="12" class="acc halo"/>
-<circle cx="14" cy="50" r="5" class="acc"/>
-<text x="36" y="54.5" class="mono acc k" font-size="12.5" font-weight="700" letter-spacing="1.2">NOW · OPEN TO ROLES</text>
-<circle cx="14" cy="96" r="4.5" class="ink2"/>
-<text x="36" y="100.5" class="mono mut k" font-size="12.5" letter-spacing="1.2">FEB – SEP 2026 · CANADA</text>
-<text x="36" y="126.5" class="sans ink" font-size="19" font-weight="600">TechGuys Consulting</text>
-<text x="36" y="149.5" class="sans mut s" font-size="16">Product Manager &amp; Venture Lead</text>
-<text x="36" y="171" class="sans mut n" font-size="14.5" font-style="italic">Led Plania, an AI SaaS for business plans</text>
-<circle cx="14" cy="205" r="4" fill="none" class="dot" stroke-width="1.5"/>
-<text x="36" y="209.5" class="mono mut k" font-size="12.5" letter-spacing="1.2">SEP – DEC 2025 · FRANCE</text>
-<text x="36" y="235.5" class="sans ink" font-size="19" font-weight="600">LGM Industrial Engineering Group</text>
-<text x="36" y="258.5" class="sans mut s" font-size="16">Digital Transformation &amp; AI Consultant</text>
-<circle cx="14" cy="292.5" r="4" fill="none" class="dot" stroke-width="1.5"/>
-<text x="36" y="297.0" class="mono mut k" font-size="12.5" letter-spacing="1.2">JUN – AUG 2025 · FRANCE</text>
-<text x="36" y="323.0" class="sans ink" font-size="19" font-weight="600">CNMSS</text>
-<text x="36" y="346.0" class="sans mut s" font-size="16">AI Strategy &amp; Transformation Consultant</text>
-<text x="36" y="367.5" class="sans mut n" font-size="14.5" font-style="italic">French military health insurance</text>
+<circle cx="14" cy="50" r="4.5" class="ink2"/>
+<text x="36" y="54.5" class="mono mut k" font-size="12.5" letter-spacing="1.2">FEB – SEP 2026 · CANADA</text>
+<text x="36" y="80.5" class="sans ink" font-size="19" font-weight="600">TechGuys Consulting</text>
+<text x="36" y="103.5" class="sans mut s" font-size="16">Product Manager &amp; Venture Lead</text>
+<text x="36" y="125" class="sans mut n" font-size="14.5" font-style="italic">Led Plania, an AI SaaS for business plans</text>
+<circle cx="14" cy="159" r="4" fill="none" class="dot" stroke-width="1.5"/>
+<text x="36" y="163.5" class="mono mut k" font-size="12.5" letter-spacing="1.2">SEP – DEC 2025 · FRANCE</text>
+<text x="36" y="189.5" class="sans ink" font-size="19" font-weight="600">LGM Industrial Engineering Group</text>
+<text x="36" y="212.5" class="sans mut s" font-size="16">Digital Transformation &amp; AI Consultant</text>
+<circle cx="14" cy="246.5" r="4" fill="none" class="dot" stroke-width="1.5"/>
+<text x="36" y="251.0" class="mono mut k" font-size="12.5" letter-spacing="1.2">JUN – AUG 2025 · FRANCE</text>
+<text x="36" y="277.0" class="sans ink" font-size="19" font-weight="600">CNMSS</text>
+<text x="36" y="300.0" class="sans mut s" font-size="16">AI Strategy &amp; Transformation Consultant</text>
+<text x="36" y="321.5" class="sans mut n" font-size="14.5" font-style="italic">French military health insurance</text>
 </svg>

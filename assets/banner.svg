@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 240" width="860" height="240" fill="none" role="img" aria-labelledby="t d">
+<title id="t">Jonathan Naal</title>
+<desc id="d">Jonathan Naal. I design and build AI systems that turn complex business workflows into simpler, scalable products. AI, Product and Business.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="860" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#0B0E13"/><stop offset="1" stop-color="#07090C"/></linearGradient>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#1E242D"/></pattern>
+</defs>
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,'SF Mono',SFMono-Regular,'Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.ping{animation:ping 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes ping{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(2.8)}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.6}}
+@media (prefers-reduced-motion:reduce){.ping{animation:none;opacity:0}.pulse{animation:none}}
+.c{display:none}
+@media (max-width:520px){.w{display:none}.c{display:inline}}
+</style>
+<rect x=".75" y=".75" width="858.5" height="238.5" rx="16" fill="url(#bg)" stroke="#262C36" stroke-width="1.5"/>
+<g class="w">
+<rect x="600" y="16" width="244" height="208" rx="12" fill="url(#dots)" opacity=".55"/>
+<circle cx="686" cy="97" r="36" fill="#3FD5A3" fill-opacity=".07" stroke="#3A4350" stroke-width="1.2"/><circle cx="744" cy="97" r="36" fill="#3FD5A3" fill-opacity=".07" stroke="#3A4350" stroke-width="1.2"/><circle cx="715" cy="146" r="36" fill="#3FD5A3" fill-opacity=".07" stroke="#3A4350" stroke-width="1.2"/>
+<g class="mono" font-size="12" letter-spacing="1.6" fill="#8B95A3" text-anchor="middle">
+<text x="676" y="52">AI</text>
+<text x="754" y="52">PRODUCT</text>
+<text x="715" y="203">BUSINESS</text>
+</g>
+<circle cx="715.0" cy="113.3" r="4.5" fill="none" stroke="#3FD5A3" stroke-width="1.5" class="ping"/>
+<circle cx="715.0" cy="113.3" r="4.5" fill="#3FD5A3" class="pulse"/>
+<text x="37" y="104" class="sans" font-size="50" font-weight="700" letter-spacing="-0.8" fill="#F5F7FA">Jonathan Naal</text>
+<rect x="40" y="121" width="58" height="3" rx="1.5" fill="#3FD5A3"/>
+<text x="40" y="164" class="sans" font-size="20.5" font-weight="500" fill="#D1D7E0">I design and build AI systems that turn complex</text>
+<text x="40" y="193" class="sans" font-size="20.5" font-weight="500" fill="#D1D7E0">business workflows into simpler, scalable products.</text>
+</g>
+<g class="c">
+<text x="36" y="84" class="sans" font-size="80" font-weight="700" letter-spacing="-1.2" fill="#F5F7FA">Jonathan Naal</text>
+<rect x="40" y="101" width="100" height="6" rx="3" fill="#3FD5A3"/>
+<text x="40" y="143" class="sans" font-size="31" font-weight="500" fill="#D1D7E0">I design and build AI systems that</text>
+<text x="40" y="180" class="sans" font-size="31" font-weight="500" fill="#D1D7E0">turn complex business workflows into</text>
+<text x="40" y="217" class="sans" font-size="31" font-weight="500" fill="#D1D7E0">simpler, scalable products.</text>
+</g>
+</svg>
