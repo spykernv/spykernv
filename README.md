@@ -27,4 +27,4 @@ Let's keep it simple: I love building with AI, deep thinking and understanding h
 
 Building Claude agents and Skills in public. **Have a workflow you'd like Claude to run?** Walk me through it, in French or English: I'll come back with a working&nbsp;demo.
 
-[LinkedIn](https://www.linkedin.com/in/jonathannaal) · Website *(build in progress)*
+[LinkedIn](https://www.linkedin.com/in/jonathannaal) · [Website](https://jonathannaal.vercel.app)
